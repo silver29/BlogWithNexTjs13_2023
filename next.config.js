@@ -18,6 +18,14 @@ const nextConfig = {
                 hostname:"directus-production-84e1.up.railway.app/assets",
                 protocol:"https",
             },
+            {
+                hostname:"myblog-nextjs13.vercel.app",
+                protocol:"https",
+            },
+            {
+                hostname:"myblog-nextjs13.vercel.app/_next/image?url=",
+                protocol:"https",
+            },
         ]
     },
     /* experimental:{
