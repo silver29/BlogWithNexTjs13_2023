@@ -26,6 +26,14 @@ const nextConfig = {
                 hostname:"myblog-nextjs13.vercel.app/_next/image?url=",
                 protocol:"https",
             },
+            {
+                hostname:"https://blog-nextjs-13-2023-p0f9dfgh0-silver29.vercel.app",
+                protocol:"https",
+            },
+            {
+                hostname:"https://blog-nextjs-13-2023-p0f9dfgh0-silver29.vercel.app/_next/image?url=",
+                protocol:"https",
+            },
         ]
     },
     /* experimental:{
