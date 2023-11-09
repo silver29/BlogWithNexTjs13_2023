@@ -1,0 +1,25 @@
+{
+    "navigation":{
+        "links": {
+            "cities":"Städte",
+            "experiences":"Erfahrungen"
+        }
+    },
+    "buttons":{
+        "readMore":"Weiterlesen"
+    },
+    "ctaCard":{
+        "title":"Entdecken Sie mit mir die Welt!",
+        "description":"Entdecken Sie mit mir die Welt! Ich reise um die Welt. Ich habe die meisten großartigen Städte in Osteuropa besucht und bin derzeit in Europa unterwegs. Begleite mich!",
+        "button":"Anmelden",
+        "placeholder":"Schreiben Sie Ihre E-Mail.",
+        "subscriberText1":"Trete unserem",
+        "subscriberText2":"Verteiler jetzt bei!"
+    },
+    "footer":{
+        "description":"Ein minimalistischer und schöner Reiseblog, der Erlebnisse und Städte auf der ganzen Welt teilt!",
+        "rightsText":"Alle Rechte vorbehalten | Urheberrechte ©",
+        "creatorText":"Erstellt mit love von",
+        "currentlyAtText": "Derzeit in"
+    }
+}
