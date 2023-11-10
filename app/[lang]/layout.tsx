@@ -50,7 +50,10 @@ export const generateMetadata = async ({
         "en-US":`${process.env.NEXT_PUBLIC_SITE_URL}/en`,
         "de-DE":`${process.env.NEXT_PUBLIC_SITE_URL}/de`,
       },
-    }
+    },
+    verification: {
+      google: "VuP8EC5QO7FV2aMmRT5rADYsuwjAYAHdLhDhsqKSJfQ",
+    },
   };
 };
 
