@@ -33,7 +33,11 @@ const nextConfig = {
             {
                 hostname:"https://blog-nextjs-13-2023-p0f9dfgh0-silver29.vercel.app/_next/image?url=",
                 protocol:"https",
-            }
+            },
+            {   
+                hostname: "**",
+                protocol: "https",
+            },
         ]
     },
     /* experimental:{

@@ -66,14 +66,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang={lang}>
-      <Script
-        strategy="afterInteractive"
-        src="https://www.googletagmanager.com/gtag/js?id=G-11Y5YESB1F"
-        ></Script>
-        <Script id="google-analytics">{`window.dataLayer = window.dataLayer || [];
-        function gtag() {dataLayer.push(arguments);}
+      {/* Google tag (gtag.js)  */}
+      <Script strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-WPT332BBGJ"></Script>
+      <Script id="google-analytics">
+        {`window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config','G-11Y5YESB1F');`}</Script>
+        gtag('config', 'G-WPT332BBGJ');`}
+      </Script>
       <body className={inter.className}>
         <Navigation locale={lang} />
         {/* <div className="pt-10">{children}</div> */}
